@@ -1,0 +1,19 @@
+# Excluir archivos de TypeScript originales
+src/
+
+# Excluir pruebas y configuraciones de pruebas
+test/
+jest.config.js
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Excluir archivos de configuración y documentación
+tsconfig.json
+README.md
+LICENSE
+.gitignore
+.npmignore
+.travis.yml
+.swcrc
